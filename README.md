@@ -23,7 +23,8 @@ Or install it yourself as:
 ## Usage
 **Important Note**  To make it work you need to write your credentials in the `.env` file
 
-Usage:  weather-cli [options] [location]
+`weather-cli [options] [location]`
+
 	-today	Temperature of the day
 	-av_max	Average of the maximum temperature during the week
 	-av_min	Average of the minimum temperature during the week
