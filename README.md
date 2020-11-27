@@ -1,8 +1,8 @@
 # Weather::Cli
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/weather/cli`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your weather-cli gem!
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
@@ -21,8 +21,13 @@ Or install it yourself as:
     $ gem install weather-cli
 
 ## Usage
+*Important Note*  To make it work you need to write your credentials in the `.env` file
 
-TODO: Write usage instructions here
+Usage:  weather-cli [options] [location]
+	-today	Temperature of the day
+	-av_max	Average of the maximum temperature during the week
+	-av_min	Average of the minimum temperature during the week
+
 
 ## Development
 
