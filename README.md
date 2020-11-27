@@ -21,7 +21,7 @@ Or install it yourself as:
     $ gem install weather-cli
 
 ## Usage
-*Important Note*  To make it work you need to write your credentials in the `.env` file
+**Important Note**  To make it work you need to write your credentials in the `.env` file
 
 Usage:  weather-cli [options] [location]
 	-today	Temperature of the day
